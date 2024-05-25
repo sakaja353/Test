@@ -1,0 +1,26 @@
+[
+{
+  "model": "recipes.recipe",
+  "pk": 1,
+  "fields": {
+    "title": "Chicken soup",
+    "instructions": "Heat the olive oil in a large heavy-based pan. Add the onions, carrots and thyme leaves, then gently fry for 15 m. Stir in the chicken stock, bring to a boil, cover, then simmer for 10 m. Add the chicken, remove half the mixture, then puree with a stick blender. Tip back into the pan with the rest of the soup, the peas and seasoning, then simmer for 5 m until hot through. Mix the Greek yoghurt, garlic and lemon juice together. Ladle the soup into bowls, swirl in the garlic yoghurt, then serve."
+  }
+},
+{
+  "model": "recipes.recipe",
+  "pk": 2,
+  "fields": {
+    "title": "Scrambled eggs",
+    "instructions": "Lightly whisk eggs, single cream and a pinch of salt together until the mixture has just one consistency. Heat a small non-stick frying pan for a minute or so, then add butter and let it melt. Don’t allow the butter to brown or it will discolour the eggs. Pour in the egg mixture and let it sit, without stirring, for 20 s. Stir with a wooden spoon, lifting and folding it over from the bottom of the pan. Let it sit for another 10 s then stir and fold again. Repeat until the eggs are softly set and slightly runny in places. Remove from the heat and leave for a moment to finish cooking. Give a final stir and serve the velvety scramble without delay."
+  }
+},
+{
+  "model": "recipes.recipe",
+  "pk": 3,
+  "fields": {
+    "title": "Banana split",
+    "instructions": "Peel and split the bananas in half lengthways and place on two plates. Top with the scoops of ice cream, drizzle over the sauce and scatter with almonds."
+  }
+}
+]

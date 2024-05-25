@@ -1,0 +1,189 @@
+[
+{
+  "model": "recipes.recipeingredient",
+  "pk": 1,
+  "fields": {
+    "recipe": 1,
+    "ingredient": 1,
+    "unit": "tbsp",
+    "number": 1,
+    "calories": 201
+  }
+},
+{
+  "model": "recipes.recipeingredient",
+  "pk": 2,
+  "fields": {
+    "recipe": 1,
+    "ingredient": 2,
+    "unit": "whole",
+    "number": 2,
+    "calories": 100
+  }
+},
+{
+  "model": "recipes.recipeingredient",
+  "pk": 3,
+  "fields": {
+    "recipe": 1,
+    "ingredient": 3,
+    "unit": "whole",
+    "number": 3,
+    "calories": 75
+  }
+},
+{
+  "model": "recipes.recipeingredient",
+  "pk": 4,
+  "fields": {
+    "recipe": 1,
+    "ingredient": 4,
+    "unit": "tbsp",
+    "number": 1,
+    "calories": 2
+  }
+},
+{
+  "model": "recipes.recipeingredient",
+  "pk": 5,
+  "fields": {
+    "recipe": 1,
+    "ingredient": 5,
+    "unit": "ml",
+    "number": 1400,
+    "calories": 511
+  }
+},
+{
+  "model": "recipes.recipeingredient",
+  "pk": 6,
+  "fields": {
+    "recipe": 1,
+    "ingredient": 6,
+    "unit": "g",
+    "number": 300,
+    "calories": 501
+  }
+},
+{
+  "model": "recipes.recipeingredient",
+  "pk": 7,
+  "fields": {
+    "recipe": 1,
+    "ingredient": 7,
+    "unit": "g",
+    "number": 200,
+    "calories": 154
+  }
+},
+{
+  "model": "recipes.recipeingredient",
+  "pk": 8,
+  "fields": {
+    "recipe": 1,
+    "ingredient": 8,
+    "unit": "tbsp",
+    "number": 3,
+    "calories": 46
+  }
+},
+{
+  "model": "recipes.recipeingredient",
+  "pk": 9,
+  "fields": {
+    "recipe": 1,
+    "ingredient": 9,
+    "unit": "g",
+    "number": 5,
+    "calories": 7
+  }
+},
+{
+  "model": "recipes.recipeingredient",
+  "pk": 10,
+  "fields": {
+    "recipe": 1,
+    "ingredient": 10,
+    "unit": "ml",
+    "number": 50,
+    "calories": 11
+  }
+},
+{
+  "model": "recipes.recipeingredient",
+  "pk": 11,
+  "fields": {
+    "recipe": 2,
+    "ingredient": 11,
+    "unit": "whole",
+    "number": 2,
+    "calories": 124
+  }
+},
+{
+  "model": "recipes.recipeingredient",
+  "pk": 12,
+  "fields": {
+    "recipe": 2,
+    "ingredient": 12,
+    "unit": "tbsp",
+    "number": 6,
+    "calories": 117
+  }
+},
+{
+  "model": "recipes.recipeingredient",
+  "pk": 13,
+  "fields": {
+    "recipe": 2,
+    "ingredient": 13,
+    "unit": "g",
+    "number": 30,
+    "calories": 215
+  }
+},
+{
+  "model": "recipes.recipeingredient",
+  "pk": 14,
+  "fields": {
+    "recipe": 3,
+    "ingredient": 14,
+    "unit": "whole",
+    "number": 4,
+    "calories": 411
+  }
+},
+{
+  "model": "recipes.recipeingredient",
+  "pk": 15,
+  "fields": {
+    "recipe": 3,
+    "ingredient": 15,
+    "unit": "g",
+    "number": 300,
+    "calories": 621
+  }
+},
+{
+  "model": "recipes.recipeingredient",
+  "pk": 16,
+  "fields": {
+    "recipe": 3,
+    "ingredient": 16,
+    "unit": "tbsp",
+    "number": 4,
+    "calories": 48
+  }
+},
+{
+  "model": "recipes.recipeingredient",
+  "pk": 17,
+  "fields": {
+    "recipe": 3,
+    "ingredient": 17,
+    "unit": "tbsp",
+    "number": 2,
+    "calories": 103
+  }
+}
+]
